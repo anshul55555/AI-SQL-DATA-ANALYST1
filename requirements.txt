@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+sqlalchemy
+langchain
+langchain-community
+langchain-groq
+requests
